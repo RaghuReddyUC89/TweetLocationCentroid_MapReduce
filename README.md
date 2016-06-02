@@ -1,6 +1,7 @@
 # TweetLocationCentroid_MapReduce
 
-For those tweets with location information, what lat/long (or city/state) is the centroid? What was the proportion of tweets with location to those without?
+###This map reduce program runs on twitter data collected for last one year. This program do the following thing
+###For those tweets with location information, what lat/long (or city/state) is the centroid? What was the proportion of tweets with location to those without?
 
 ###Approach:
 
